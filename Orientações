@@ -1,0 +1,5 @@
+o personasem player em Inspector Rotation Y coloca 180
+Adiciona o script ao player
+em Assets criar pasta Material criar em 2D -> Physics Material 2D, nomear NoFriction
+em Inspector Friction coloca 0
+no personagem player em Inspector em Rigidbody2D em Material adicionar o NoFriction
